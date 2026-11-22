@@ -1,3 +1,7 @@
+
+https://youtu.be/l_oRLf6K1ZI
+https://github.com/limon0624/1151VR-HW5-414262105-HYR
+
 製作流程
 (1) 建立專案與 Repository
 在 GitHub 建立 Public repository 1151VR-HW5-414262105-HYR，.gitignore 選 Unity
